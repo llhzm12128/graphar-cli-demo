@@ -1,5 +1,5 @@
 # demo说明
-该demo搭建一个ETL工具代码框架，由于目前尚未深入了解graphar中的数据结构，所以demo中实现了一个csv数据到json数据的转换示例。
+该demo搭建一个ETL工具代码框架，由于目前尚未深入了解graphar中的数据结构，所以demo中首先实现了一个csv数据到json数据的转换示例。
 
 1. **提取（Extract）**：`extract.py` 中的 `extract` 函数读取输入 CSV 文件并返回数据。
 
